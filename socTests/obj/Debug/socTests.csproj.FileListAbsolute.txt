@@ -1,0 +1,111 @@
+A:\c#\socTests\socTests\bin\Debug\socTests.exe.config
+A:\c#\socTests\socTests\bin\Debug\socTests.exe
+A:\c#\socTests\socTests\bin\Debug\socTests.pdb
+A:\c#\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+A:\c#\socTests\socTests\obj\Debug\socTests.Form1.resources
+A:\c#\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+A:\c#\socTests\socTests\obj\Debug\socTests.Test1.resources
+A:\c#\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+A:\c#\socTests\socTests\obj\Debug\socTests.exe
+A:\c#\socTests\socTests\obj\Debug\socTests.pdb
+D:\FIT\socTests\socTests\bin\Debug\socTests.exe.config
+D:\FIT\socTests\socTests\bin\Debug\socTests.exe
+D:\FIT\socTests\socTests\bin\Debug\socTests.pdb
+D:\FIT\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+D:\FIT\socTests\socTests\obj\Debug\socTests.Form1.resources
+D:\FIT\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+D:\FIT\socTests\socTests\obj\Debug\socTests.Test1.resources
+D:\FIT\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+D:\FIT\socTests\socTests\obj\Debug\socTests.exe
+D:\FIT\socTests\socTests\obj\Debug\socTests.pdb
+D:\FIT\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+C:\Users\jecka\Desktop\socTests\socTests\bin\Debug\socTests.exe.config
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests\socTests\bin\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests\socTests\bin\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.Form1.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.Test1.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\bin\Debug\socTests.exe.config
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\bin\Debug\socTests.exe
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\bin\Debug\socTests.pdb
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.Form1.resources
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.Test1.resources
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.exe
+C:\Users\nasti\Downloads\socTests v1.1(noDesign)\socTests\socTests\obj\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\bin\Debug\socTests.exe.config
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\bin\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\bin\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.AboutForm.resources
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.Form1.resources
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.Test1.resources
+C:\Users\jecka\Desktop\socTests-20170412T194925Z-001\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.AboutForm.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.HelpWindow.resources
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.SocionicTranscription.resources
+D:\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+D:\socTests\socTests\obj\Debug\socTests.AboutForm.resources
+D:\socTests\socTests\obj\Debug\socTests.Form1.resources
+D:\socTests\socTests\obj\Debug\socTests.HelpWindow.resources
+D:\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+D:\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+D:\socTests\socTests\obj\Debug\socTests.SocionicTranscription.resources
+D:\socTests\socTests\obj\Debug\socTests.Test1.resources
+D:\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+D:\socTests\socTests\obj\Debug\socTests.exe
+D:\socTests\socTests\obj\Debug\socTests.pdb
+D:\socTests\socTests\bin\Debug\socTests.exe.config
+D:\socTests\socTests\bin\Debug\socTests.exe
+D:\socTests\socTests\bin\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests\socTests\obj\Debug\socTests.AllResultsTest1.resources
+D:\socTests\socTests\obj\Debug\socTests.AllResultsTest1.resources
+D:\socTests\socTests\obj\Debug\socTests.Test2.resources
+D:\socTests\socTests\obj\Debug\socTests.ResPsyho.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\bin\Debug\socTests.exe.config
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests\socTests\socTests\bin\Debug\socTests.exe
+C:\Users\jecka\Desktop\socTests\socTests\socTests\bin\Debug\socTests.pdb
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.AboutForm.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.AllResultsTest1.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.Form1.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.HelpWindow.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.ResPsyho.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.SocionicTranscription.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.Test1.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.Test2.resources
+C:\Users\jecka\Desktop\socTests\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+D:\socTests\socTests\socTests\bin\Debug\socTests.exe.config
+D:\socTests\socTests\socTests\bin\Debug\socTests.exe
+D:\socTests\socTests\socTests\bin\Debug\socTests.pdb
+D:\socTests\socTests\socTests\obj\Debug\socTests.csprojResolveAssemblyReference.cache
+D:\socTests\socTests\socTests\obj\Debug\socTests.AboutForm.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.AllResultsTest1.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.Form1.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.HelpWindow.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.Properties.Resources.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.ResPsyho.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.Resultsocionics.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.SocionicTranscription.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.Test1.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.Test2.resources
+D:\socTests\socTests\socTests\obj\Debug\socTests.csproj.GenerateResource.Cache
+D:\socTests\socTests\socTests\obj\Debug\socTests.exe
+D:\socTests\socTests\socTests\obj\Debug\socTests.pdb
+D:\socTests\socTests\socTests\obj\Debug\socTests.ShowDual.resources
